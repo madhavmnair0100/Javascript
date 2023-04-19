@@ -4,7 +4,7 @@
   },
   "name": "javascript",
   "version": "1.0.0",
-  "description": "This is a Directory owned by Madhav M Nair. This contains several javscript files and several folders associated with javascript",
+  "description": "",
   "main": "(test.js)",
   "devDependencies": {},
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "Javascript"
+    "url": "https://github.com/madhavmnair0100/Javascript"
   },
   "keywords": [
     "#NodeJs",
