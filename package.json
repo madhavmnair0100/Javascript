@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "This is a Directory owned by Madhav M Nair. This contains several javscript files and several folders associated with javascript",
+  "main": "(test.js)",
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log(\"Hello, World\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Javascript"
+  },
+  "keywords": [
+    "#NodeJs",
+    "#MadhavMNair"
+  ],
+  "author": "Madhav M Nair",
+  "license": "ISC"
+}
